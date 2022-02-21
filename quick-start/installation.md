@@ -80,4 +80,5 @@ Enfin, après avoir personnalisé Jenkins avec des plugins, Jenkins vous demande
 - Lorsque la page **Jenkins est prêt** s'affiche, cliquez sur **Commencer à utiliser Jenkins**.
 
 <br>
+
 Source : [Jenkins doc](https://www.jenkins.io/doc/book/installing/linux/#red-hat-centos)
